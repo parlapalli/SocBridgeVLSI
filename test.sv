@@ -1,5 +1,5 @@
 module test;
   initial
-	$display("Welcome to Git Repo");
+	$display("Welcome to SocBridge Semiconductors Pvt Ltd");
 
 enmodule 
